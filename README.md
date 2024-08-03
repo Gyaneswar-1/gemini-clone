@@ -2,7 +2,7 @@
 ## _google ai gemini clone_
 
 [![N|React](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJbd6sk7zjsfY8mwVucWTooKzm3j4yV6RkCw&s)](https://react.dev/)
-[![N|React](https://miro.medium.com/v2/resize:fit:1200/1*udvSMrSVGOgD4fxjMJHbOw.jpeg)](https://vitejs.dev/)
+
 
 
 
